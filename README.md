@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning <..front end
 - 💞️ I’m looking to collaborate on ..any company.
-- 📫 How to reach me ..
+- 📫 How to reach me ..maradanarupesh@gmail.com
 
 <!---
 rupeshmaradana/rupeshmaradana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
